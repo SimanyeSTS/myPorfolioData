@@ -153,7 +153,7 @@
             }
         ]
     },
-    "Projects": [
+    "projects": [
         {
             "id": 1,
             "title": "SS Retro Records",
@@ -203,7 +203,7 @@
             "image": "https://simanyests.github.io/FinalPortfolioPictures/Screenshot 2024-07-01 121858.png"
         }
     ],
-    "Testimonials": [
+    "testimonials": [
         {
             "id": 1,
             "title": "Abdurahmaan Charif",
