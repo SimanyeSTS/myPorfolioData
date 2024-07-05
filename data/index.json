@@ -158,48 +158,48 @@
             "id": 1,
             "title": "SS Retro Records",
             "description": "SS Retro Records is an e-commerce site I developed to showcase my knowledge in JavaScript. It utilizes local storage.",
-            "hosted": "",
-            "gitHub": "",
+            "hosted": "https://ss-retro-records.vercel.app/html/products.html",
+            "gitHub": "https://github.com/SimanyeSTS/SS-Retro-Records.git",
             "image": "https://simanyests.github.io/FinalPortfolioPictures/Screenshot 2024-07-01 121606.png"
         },
         {
             "id": 2,
             "title": "Swegga Fashion",
             "description": "The Swegga Fashion website features products like female and male jackets, available in various sizes and colors. Each product listing includes a brief description, size options, color choices, price, quantity, and total cost. The site also provides a section to confirm and process orders.",
-            "hosted": "",
-            "gitHub": "",
+            "hosted": "https://swegga-fashion-6cbmmh0l2-simanye-somdakas-projects.vercel.app/",
+            "gitHub": "https://github.com/SimanyeSTS/SWEGGA-FASHION.git",
             "image": "https://simanyests.github.io/FinalPortfolioPictures/Screenshot 2024-07-01 121712.png"
         },
         {
             "id": 3,
             "title": "BMI Calculator",
             "description": "This BMI Calculator assists users in knowing their BMI by putting in values like their height and weight.",
-            "hosted": "",
-            "gitHub": "",
+            "hosted": "https://simzbmicalc.netlify.app",
+            "gitHub": "https://github.com/SimanyeSTS/BMI-Calculator.git",
             "image": "https://simanyests.github.io/FinalPortfolioPictures/Screenshot 2024-07-01 121527.png"
         },
         {
             "id": 4,
             "title": "To-Do List",
             "description": "The To-Do List website allows users to add and manage tasks. The interface includes options to add a new task, view the list of tasks, and sort them.",
-            "hosted": "",
-            "gitHub": "",
+            "hosted": "https://simztodolist.netlify.app",
+            "gitHub": "https://github.com/SimanyeSTS/To-Do-List.git",
             "image": "https://simanyests.github.io/FinalPortfolioPictures/Screenshot 2024-07-01 121329.png"
         },
         {
             "id": 5,
             "title": "Temperature Converter",
             "description": "The Temperature Converter website allows users to convert temperatures between Celsius, Fahrenheit, and Kelvin. Users can input a temperature value, select the units for conversion, and get the converted temperature instantly.",
-            "hosted": "",
-            "gitHub": "",
+            "hosted": "https://simz-tempconv.netlify.app",
+            "gitHub": "https://github.com/SimanyeSTS/Temp.-Converter.git",
             "image": "https://simanyests.github.io/FinalPortfolioPictures/Screenshot 2024-07-01 121444.png"
         },
         {
             "id": 6,
             "title": "Calculator",
             "description": "A very basic calculator able to perform calculations. Main highlight of it is the ability to make use of CSS.",
-            "hosted": "",
-            "gitHub": "",
+            "hosted": "https://simanyests.github.io/Calculator/",
+            "gitHub": "https://github.com/SimanyeSTS/Calculator.git",
             "image": "https://simanyests.github.io/FinalPortfolioPictures/Screenshot 2024-07-01 121858.png"
         }
     ],
