@@ -38,7 +38,7 @@
             {
                 "id": 1,
                 "title": "Life Choices Academy",
-                "description": "I currently attend Life Choices Coding Academy which is a web development course to be able to design and implement webpages so I can be a more robust software developer.",
+                "description": "I have attended Life Choices Coding Academy for 6 months (April - September) which is a comprehensive web development course to be able to design and implement webpages so I can be a more robust software developer.",
                 "image": "https://simanyests.github.io/FinalPortfolioPictures/2024_bold_ff9c00.png"
             },
             {
@@ -177,6 +177,12 @@
             {
                 "id": 3,
                 "description": "•Environmental Club - Neatliness"
+            }
+        ],
+        "Employment Experience": [
+            {
+                "id": 1,
+                "description": "•Currently a software engineering intern at Life Choices Studio (September 2024)"
             }
         ],
         "Volunteering Experience": [
