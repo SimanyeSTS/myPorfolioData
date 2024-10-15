@@ -199,7 +199,7 @@
 
         ],
         "Badges": [
-            
+
         ]
     },
     "projects": [
@@ -246,7 +246,7 @@
         {
             "id": 6,
             "title": "Calculator",
-            "description": "A very basic calculator able to perform calculations. Main highlight of it is the ability to make use of CSS.",
+            "description": "A calculator I designded that is capable of performing calculations. Main highlight of it is the ability to make use of CSS and JavaScript.",
             "hosted": "https://simanyests.github.io/Calculator/",
             "gitHub": "https://github.com/SimanyeSTS/Calculator.git",
             "image": "https://simanyests.github.io/FinalPortfolioPictures/Screenshot 2024-07-01 121858.png"
