@@ -188,12 +188,18 @@
         "Volunteering Experience": [
             {
                 "id": 1,
-                "description": "•Job shadowing at Eerste River Hospital for a duration of 2 years (2021-2022) during school holidays - Working in a fast paced environment"
+                "description": "•Job shadowing (nursing) at Eerste River Hospital for a duration of 2 years (2021-2022) during school holidays - Working in a fast paced environment"
             },
             {
                 "id": 2,
                 "description": "•Assisting prefects with their duties throughout the course of 2023 - Teamwork and Compassion"
             }
+        ],
+        "Certifications": [
+
+        ],
+        "Badges": [
+            
         ]
     },
     "projects": [
