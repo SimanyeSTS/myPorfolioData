@@ -213,27 +213,27 @@
         },
         {
             "id": 2,
-            "title": "SS Retro Records",
-            "description": "SS Retro Records is an e-commerce site I developed to showcase my knowledge in JavaScript. It utilizes local storage.",
-            "hosted": "https://ss-retro-records.vercel.app/html/products.html",
-            "gitHub": "https://github.com/SimanyeSTS/SS-Retro-Records.git",
-            "image": "https://simanyests.github.io/FinalPortfolioPictures/Screenshot 2024-07-01 121606.png"
+            "title": "Snake Game",
+            "description": "A demonstration of my JavaScript expertise, featuring smooth animations, collision detection, and score tracking. Built with JavaScript, HTML, CSS, and a passion for game development.",
+            "hosted": "https://snake-game-indol-xi.vercel.app/",
+            "gitHub": "https://github.com/SimanyeSTS/Snake-Game.git",
+            "image": "https://i.postimg.cc/nhvLfCvj/Screenshot-2024-10-15-132223.png"
         },
         {
             "id": 3,
+            "title": "TimeScape",
+            "description": "A vibrant, interactive analogue clock built with JavaScript, HTML, and CSS. Demonstrating expertise in dynamic rendering, real-time updates and customizable design.",
+            "hosted": "https://clock-work-three.vercel.app/",
+            "gitHub": "https://github.com/SimanyeSTS/clockWork.git",
+            "image": "https://i.postimg.cc/zD6DLn7H/Screenshot-2024-10-15-152101.png"
+        },
+        {
+            "id": 4,
             "title": "BMI Calculator",
             "description": "This BMI Calculator assists users in knowing their BMI by putting in values like their height and weight.",
             "hosted": "https://simzbmicalc.netlify.app",
             "gitHub": "https://github.com/SimanyeSTS/BMI-Calculator.git",
             "image": "https://simanyests.github.io/FinalPortfolioPictures/Screenshot 2024-07-01 121527.png"
-        },
-        {
-            "id": 4,
-            "title": "To-Do List",
-            "description": "The To-Do List website allows users to add and manage tasks. The interface includes options to add a new task, view the list of tasks, and sort them.",
-            "hosted": "https://simztodolist.netlify.app",
-            "gitHub": "https://github.com/SimanyeSTS/To-Do-List.git",
-            "image": "https://simanyests.github.io/FinalPortfolioPictures/Screenshot 2024-07-01 121329.png"
         },
         {
             "id": 5,
@@ -246,7 +246,7 @@
         {
             "id": 6,
             "title": "Calculator",
-            "description": "A calculator I designded that is capable of performing calculations. Main highlight of it is the ability to make use of CSS and JavaScript.",
+            "description": "A calculator I designed that is capable of performing calculations. Main highlight of it is the ability to make use of CSS and JavaScript.",
             "hosted": "https://simanyests.github.io/Calculator/",
             "gitHub": "https://github.com/SimanyeSTS/Calculator.git",
             "image": "https://simanyests.github.io/FinalPortfolioPictures/Screenshot 2024-07-01 121858.png"
