@@ -38,7 +38,7 @@
             {
                 "id": 1,
                 "title": "Life Choices Academy",
-                "description": "I have attended Life Choices Coding Academy for 6 months (April - September) which is a comprehensive web development course to be able to design and implement webpages so I can be a more robust software developer.",
+                "description": "I attended Life Choices Coding Academy for 6 months (April - September), where I completed a comprehensive web development course focused on designing and implementing websites to become a more versatile software developer.",
                 "image": "https://simanyests.github.io/FinalPortfolioPictures/2024_bold_ff9c00.png"
             },
             {
@@ -179,10 +179,10 @@
                 "description": "•Environmental Club - Neatliness"
             }
         ],
-        "Employment Experience": [
+        "Work Experience": [
             {
                 "id": 1,
-                "description": "•Currently a software engineering intern at Life Choices Studio (from September 2024)"
+                "description": "•Currently a software engineering intern at Life Choices Studio (from September 2024) - Honing my skills in C++ and Python while contributing to software development projects and expanding my cloud computing expertise through AWS Cloud Practitioner classes, collaborating with senior engineers to develop industry-aligned solutions."
             }
         ],
         "Volunteering Experience": [
@@ -206,7 +206,7 @@
         {
             "id": 1,
             "title": "AuraArtistry",
-            "description": "AuraArtistry is an e-commerce site I worked on the backend for to showcase my knowledge in Node.JS and MySQL. A user can be able to view and purchase beauty products from the site, it also features an admin panel.",
+            "description": "AuraArtistry is an e-commerce site I worked on the backend for to showcase my knowledge in Node.JS and MySQL. A user can be able to view and purchase feminine beauty products from the site, it also features an admin panel.",
             "hosted": "https://vuejs-frontend-e2fc1.web.app/",
             "gitHub": "https://github.com/SimanyeSTS/AuraArtistry-Project.git",
             "image": "https://i.postimg.cc/SR0JCs2W/Screenshot-2024-09-18-101605.png"
