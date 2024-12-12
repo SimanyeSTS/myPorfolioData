@@ -38,7 +38,7 @@
             {
                 "id": 1,
                 "title": "Life Choices Academy",
-                "description": "I had the privilege of attending Life Choices Coding Academy from April to September, where I immersed myself in an intensive 6-month web development course. This comprehensive program equipped me with the skills to design and implement websites, propelling me towards becoming a more versatile software developer. Throughout this journey, I not only honed my technical skills but also developed essential soft skills.This transformative experience has empowered me to tackle complex coding challenges, think creatively, and drive innovative solutions.",
+                "description": "I had the privilege of attending Life Choices Coding Academy from April to September, where I immersed myself in an intensive 6-month web development course. This comprehensive program equipped me with the skills to design and implement websites, propelling me towards becoming a more versatile software developer. Throughout this journey, I not only honed my technical skills but also developed essential soft skills.  This transformative experience has empowered me to tackle complex coding challenges, think creatively, and drive innovative solutions.",
                 "image": "https://simanyests.github.io/FinalPortfolioPictures/2024_bold_ff9c00.png"
             },
             {
@@ -94,7 +94,7 @@
             {
                 "id": 5,
                 "title": "Vue.js",
-                "skill": "Proficient",
+                "skill": "Advanced",
                 "description-1": "•Advanced Vue.js Architecture (Modular Components, Optimized Templates, Custom Lifecycle Hooks)",
                 "description-2": "•Expert-level Vue Router Configuration & State Management with Vuex/Pinia",
                 "description-3": "•Mastering Complex Vue Component Interactions & Template Optimization Techniques",
