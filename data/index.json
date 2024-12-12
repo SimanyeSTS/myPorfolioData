@@ -58,19 +58,19 @@
             {
                 "id": 1,
                 "title": "HyperText Markup Language (HTML)",
-                "skill": "Intermediate", 
-                "description-1": "•HTML5 Structure & Semantics",
-                "description-2": "•Responsive Web Design Foundations",
-            "description-3": "•Web Markup Language Expertise",
+                "skill": "Proficient", 
+                "description-1": "•Advanced HTML5 Microformats & Microdata",
+                "description-2": "•Expert-level Responsive Web Design & Accessibility",
+                "description-3": "•Specialized Knowledge of Web Markup Language & Semantic HTML",
                 "logo": "https://i.postimg.cc/x8mm26tK/imageedit-2-7275195097-1.png"
             },
             {
                 "id": 2,
                 "title": "Cascading Stylesheet (CSS)",
-                "skill": "Intermediate",
-               "description-1": "•CSS Preprocessors (Sass/LESS)",
-               "description-2": "•Cross-browser Compatibility",
-               "description-3": "•Responsive Design & Media Queries",
+                "skill": "Proficient",
+               "description-1": "•Advanced CSS Architecture (Modular CSS, Utility-First Approach)",
+               "description-2": "•Expert-Level Cross-Browser Compatibility & Debugging",
+               "description-3": "•Sophisticated Responsive Design & Accessibility Implementations",
                 "logo": "https://i.postimg.cc/nzC7dFmS/imageedit-32-6080177369-1.png"
             },
             {
@@ -85,28 +85,28 @@
             {
                 "id": 4,
                 "title": "JavaScript",
-                "skill": "Beginner",
-                "description-1": "•JavaScript Fundamentals (Variables, Loops, Functions)",
-               "description-2": "•Dynamic HTML Generation",
-               "description-3": "•DOM Scripting Fundamentals",
+                "skill": "Intermediate",
+                "description-1": "•Advanced JavaScript Concepts (Closures, Hoisting, Prototypal Inheritance)",
+                "description-2": "•Modular JavaScript Development (ES6 Modules, Webpack)",
+                "description-3": "•Asynchronous Programming (Promises, Async/Await, Generators)",
                 "logo": "https://i.postimg.cc/5tPLqYXF/imageedit-28-9330570247-1.png"
             },
             {
                 "id": 5,
                 "title": "Vue.js",
-                "skill": "Beginner",
-                "description-1": "•Vue.js Foundations (Components, Templates, Lifecycle Hooks)",
-                "description-2": "•Vue Router & State Management",
-                "description-3": "•Understanding Vue Components & Templates",
+                "skill": "Proficient",
+                "description-1": "•Advanced Vue.js Architecture (Modular Components, Optimized Templates, Custom Lifecycle Hooks)",
+                "description-2": "•Expert-level Vue Router Configuration & State Management with Vuex/Pinia",
+                "description-3": "•Mastering Complex Vue Component Interactions & Template Optimization Techniques",
                 "logo": "https://i.postimg.cc/s2f5h9gr/imageedit-17-4340827457-1.png"
             },
             {
                 "id": 6,
                 "title": "Node.js",
-                "skill": "Beginner",
-                "description-1": "•Event-driven I/O",
-                "description-2": "•RESTful API Design",
-                "description-3": "•Express.js",
+                "skill": "Intermediate",
+                "description-1": "•Advanced Event-Driven Programming with Custom Event Emitters",
+                "description-2": "•Designing Scalable RESTful APIs with Node.js Frameworks",
+                "description-3": "•Building High-Performance Web Applications with Express.js and Middleware",
                 "logo": "https://i.postimg.cc/T36VRX8h/imageedit-41-8817842080-1.png"
             },
             {
