@@ -138,30 +138,48 @@
             },
             {
                 "id": 10,
-                "description": "•Computer Literate - Able to utilize Microsoft Office Programs"
+                "title": "Python",
+                "skill": "Beginner",
+                "description-1": "• Familiarity with Python basics (data structures, functions, OED)",
+               "description-2": "• Experience with Flask framework (web development, API integration)",
+               "description-3": "• Understanding of control structures and data types",
+                "logo": "https://i.postimg.cc/GtspjXn6/file-1.png"
             },
             {
                 "id": 11,
-                "description": "•Proficient in the English Language"
+                "title": "C++",
+                "skill": "Beginner",
+                "description-1": "• Understanding of variables, data types, and operators",
+                "description-2": "• Familiarity with control structures and functions",
+                "description-3": "• Working knowledge of pointers and memory management",
+                "logo": "https://i.postimg.cc/tgMkZgqD/imageedit-40-6981204087-1.png"
             },
             {
                 "id": 12,
-                "description": "•Possess representational skills"
+                "description": "•Computer Literate - Able to utilize Microsoft Office Programs"
             },
             {
                 "id": 13,
-                "description": "•Multitasking"
+                "description": "•Proficient in the English Language"
             },
             {
                 "id": 14,
-                "description": "•Analytical thinking"
+                "description": "•Possess representational skills"
             },
             {
                 "id": 15,
-                "description": "•Conflict resolution"
+                "description": "•Multitasking"
             },
             {
                 "id": 16,
+                "description": "•Analytical thinking"
+            },
+            {
+                "id": 17,
+                "description": "•Conflict resolution"
+            },
+            {
+                "id": 18,
                 "description": "•Innovative"
             }
         ],
