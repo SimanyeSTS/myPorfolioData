@@ -264,6 +264,22 @@
     "projects": [
         {
             "id": 1,
+            "title": "FortuneTrack",
+            "description": "...",
+            "hosted": "https://fortunetrack-91faa.web.app/",
+            "gitHub": "https://github.com/SimanyeSTS/FortuneTrack.git",
+            "image": "https://i.postimg.cc/mrfWVnW9/Screenshot-2025-01-13-162054.png"
+        },
+        {
+            "id": 2,
+            "title": "WeatherWise",
+            "description": "...",
+            "hosted": "https://weather-wise-sftw-eng.vercel.app/",
+            "gitHub": "https://github.com/SimanyeSTS/weather_app.git",
+            "image": "https://i.postimg.cc/tJgKYQWK/Screenshot-2025-01-13-162210.png"
+        },
+        {
+            "id": 3,
             "title": "AuraArtistry",
             "description": "AuraArtistry is an e-commerce site I worked on the backend for to showcase my knowledge in Node.JS and MySQL. A user can be able to view and purchase feminine beauty products from the site, it also features an admin panel.",
             "hosted": "https://vuejs-frontend-e2fc1.web.app/",
@@ -271,7 +287,7 @@
             "image": "https://i.postimg.cc/SR0JCs2W/Screenshot-2024-09-18-101605.png"
         },
         {
-            "id": 2,
+            "id": 4,
             "title": "Snake Game",
             "description": "A demonstration of my JavaScript expertise, featuring smooth animations, collision detection, and score tracking. Built with JavaScript, HTML, CSS, and a passion for game development.",
             "hosted": "https://snake-game-indol-xi.vercel.app/",
@@ -279,7 +295,7 @@
             "image": "https://i.postimg.cc/gj2pwHtQ/Screenshot-2024-10-15-132223-2.png"
         },
         {
-            "id": 3,
+            "id": 5,
             "title": "TimeScape",
             "description": "A vibrant, interactive analogue clock built with JavaScript, HTML, and CSS. Demonstrating expertise in dynamic rendering, real-time updates and customizable design.",
             "hosted": "https://clock-work-three.vercel.app/",
@@ -287,28 +303,12 @@
             "image": "https://i.postimg.cc/ZK0Z4jdy/Screenshot-2024-10-15-152101.png"
         },
         {
-            "id": 4,
-            "title": "BMI Calculator",
-            "description": "This BMI Calculator assists users in knowing their BMI by putting in values like their height and weight.",
-            "hosted": "https://simzbmicalc.netlify.app",
-            "gitHub": "https://github.com/SimanyeSTS/BMI-Calculator.git",
-            "image": "https://simanyests.github.io/FinalPortfolioPictures/Screenshot 2024-07-01 121527.png"
-        },
-        {
-            "id": 5,
+            "id": 6,
             "title": "Temperature Converter",
             "description": "The Temperature Converter website allows users to convert temperatures between Celsius, Fahrenheit, and Kelvin. Users can input a temperature value, select the units for conversion, and get the converted temperature instantly.",
             "hosted": "https://simz-tempconv.netlify.app",
             "gitHub": "https://github.com/SimanyeSTS/Temp.-Converter.git",
             "image": "https://simanyests.github.io/FinalPortfolioPictures/Screenshot 2024-07-01 121444.png"
-        },
-        {
-            "id": 6,
-            "title": "Calculator",
-            "description": "A calculator I designed that is capable of performing calculations. Main highlight of it is the ability to make use of CSS and JavaScript.",
-            "hosted": "https://simanyests.github.io/Calculator/",
-            "gitHub": "https://github.com/SimanyeSTS/Calculator.git",
-            "image": "https://simanyests.github.io/FinalPortfolioPictures/Screenshot 2024-07-01 121858.png"
         }
     ],
     "testimonials": [
