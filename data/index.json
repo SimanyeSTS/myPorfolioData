@@ -1,5 +1,3 @@
-WeatherWise is an interactive weather app developed as a collaborative project, utilizing Python (Flask) for the backend and JavaScript for the frontend. While my primary responsibility was frontend development with HTML, CSS, and JavaScript, I also took the initiative to support the backend team. I refactored the Python backend to improve scalability, enhance functionality, and streamline data integration from the OpenWeather API. This hands-on experience strengthened my full-stack development skills, allowing me to contribute effectively to both the frontend and backend. (Refer to GitHub commits for details.)
-
 {
     "jobTitle": [
         {
