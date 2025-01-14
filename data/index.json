@@ -265,7 +265,7 @@
         {
             "id": 1,
             "title": "FortuneTrack",
-            "description": "...",
+            "description": "FortuneTrack was developed as my Capstone Project for LCA—a prediction market and analytics platform built with Vue.js for the frontend and Node.js for the backend. I independently chose this complex topic, setting my project apart within the cohort. My key contribution was designing and implementing data processing algorithms, visualizing data through interactive graphs, and integrating AI to generate accurate market forecasts and insights. The platform features secure user authentication with full CRUD functionality, complemented by a seamless and efficient admin panel. This project has been a defining milestone in my full-stack development journey.",
             "hosted": "https://fortunetrack-91faa.web.app/",
             "gitHub": "https://github.com/SimanyeSTS/FortuneTrack.git",
             "image": "https://i.postimg.cc/mrfWVnW9/Screenshot-2025-01-13-162054.png"
