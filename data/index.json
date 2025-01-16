@@ -297,7 +297,7 @@
         {
             "id": 5,
             "title": "TimeScape",
-            "description": "TimeScape is an interactive analogue clock built with HTML, CSS, and JavaScript. I developed the clock’s real-time functionality by manipulating the DOM with JavaScript, ensuring smooth and accurate updates for the hour, minute, and second hands. The design features dynamic animations and a visually striking gradient background with a modern, clean user interface. The clock face includes custom styling for each hand, and I implemented a responsive layout that adapts to various screen sizes. This project highlights my skills in front-end development, animation, and real-time data updates.",
+            "description": "TimeScape is an interactive analogue clock built with HTML, CSS, and JavaScript. I implemented real-time functionality using JavaScript to ensure smooth updates of the hour, minute, and second hands. The design features dynamic animations, a gradient background, and custom hand styling. It adapts responsively to various screen sizes, showcasing my front-end development, animation, and real-time data update skills.",
             "hosted": "https://clock-work-three.vercel.app/",
             "gitHub": "https://github.com/SimanyeSTS/clockWork.git",
             "image": "https://i.postimg.cc/ZK0Z4jdy/Screenshot-2024-10-15-152101.png"
