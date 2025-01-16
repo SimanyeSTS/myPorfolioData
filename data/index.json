@@ -305,7 +305,7 @@
         {
             "id": 6,
             "title": "Temperature Converter",
-            "description": "Temperature Converter is a web application that allows users to easily convert temperatures between Celsius, Fahrenheit, and Kelvin. I implemented the conversion logic using JavaScript, ensuring accurate and real-time results based on user input. The interface includes intuitive form elements for temperature entry and unit selection. The design features a clean and user-friendly layout with responsive styling, ensuring accessibility across devices. This project showcases my proficiency in JavaScript for dynamic functionality and my ability to create interactive web applications with a focus on usability.",
+            "description": "Temperature Converter is a web app that allows users to convert temperatures between Celsius, Fahrenheit, and Kelvin. I implemented the conversion logic in JavaScript for real-time results. The interface features intuitive form elements for input and unit selection, with a responsive, user-friendly design. This project demonstrates my JavaScript proficiency and ability to build interactive, accessible web applications with a focus on usability.",
             "hosted": "https://simz-tempconv.netlify.app",
             "gitHub": "https://github.com/SimanyeSTS/Temp.-Converter.git",
             "image": "https://simanyests.github.io/FinalPortfolioPictures/Screenshot 2024-07-01 121444.png"
