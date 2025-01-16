@@ -281,7 +281,7 @@
         {
             "id": 3,
             "title": "AuraArtistry",
-            "description": "AuraArtistry is an e-commerce site I worked on the backend for to showcase my knowledge in Node.JS and MySQL. A user can be able to view and purchase feminine beauty products from the site, it also features an admin panel.",
+            "description": "AuraArtistry is a collaborative e-commerce platform for feminine beauty products, where I led the backend development using Node.js, Express.js, and MySQL. I designed and implemented secure, scalable RESTful API endpoints with full CRUD functionality, developed efficient database schemas, and managed user authentication with password hashing for data security. Additionally, I integrated product and order management systems and contributed to the frontend by implementing dynamic product filtering and sorting features. The platform includes a secure admin panel for streamlined product and user management. This project highlights my backend expertise and collaborative approach to delivering a robust full-stack application.",
             "hosted": "https://vuejs-frontend-e2fc1.web.app/",
             "gitHub": "https://github.com/SimanyeSTS/AuraArtistry-Project.git",
             "image": "https://i.postimg.cc/SR0JCs2W/Screenshot-2024-09-18-101605.png"
@@ -289,7 +289,7 @@
         {
             "id": 4,
             "title": "Snake Game",
-            "description": "A demonstration of my JavaScript expertise, featuring smooth animations, collision detection, and score tracking. Built with JavaScript, HTML, CSS, and a passion for game development.",
+            "description": "Snake Game is a browser-based game built with HTML, CSS, and JavaScript. I developed the game logic, including snake movement, collision detection, and score tracking. Using the HTML5 canvas, I rendered the game grid, snake, and food items, ensuring smooth animations. The game’s user controls are managed through keyboard inputs, with the snake growing in size as it eats food. This project demonstrates my skills in JavaScript programming, dynamic rendering, and interactive game development.",
             "hosted": "https://snake-game-indol-xi.vercel.app/",
             "gitHub": "https://github.com/SimanyeSTS/Snake-Game.git",
             "image": "https://i.postimg.cc/gj2pwHtQ/Screenshot-2024-10-15-132223-2.png"
@@ -297,7 +297,7 @@
         {
             "id": 5,
             "title": "TimeScape",
-            "description": "A vibrant, interactive analogue clock built with JavaScript, HTML, and CSS. Demonstrating expertise in dynamic rendering, real-time updates and customizable design.",
+            "description": "TimeScape is an interactive analogue clock built with HTML, CSS, and JavaScript. I developed the clock’s real-time functionality by manipulating the DOM with JavaScript, ensuring smooth and accurate updates for the hour, minute, and second hands. The design features dynamic animations and a visually striking gradient background with a modern, clean user interface. The clock face includes custom styling for each hand, and I implemented a responsive layout that adapts to various screen sizes. This project highlights my skills in front-end development, animation, and real-time data updates.",
             "hosted": "https://clock-work-three.vercel.app/",
             "gitHub": "https://github.com/SimanyeSTS/clockWork.git",
             "image": "https://i.postimg.cc/ZK0Z4jdy/Screenshot-2024-10-15-152101.png"
@@ -305,7 +305,7 @@
         {
             "id": 6,
             "title": "Temperature Converter",
-            "description": "The Temperature Converter website allows users to convert temperatures between Celsius, Fahrenheit, and Kelvin. Users can input a temperature value, select the units for conversion, and get the converted temperature instantly.",
+            "description": "Temperature Converter is a web application that allows users to easily convert temperatures between Celsius, Fahrenheit, and Kelvin. I implemented the conversion logic using JavaScript, ensuring accurate and real-time results based on user input. The interface includes intuitive form elements for temperature entry and unit selection. The design features a clean and user-friendly layout with responsive styling, ensuring accessibility across devices. This project showcases my proficiency in JavaScript for dynamic functionality and my ability to create interactive web applications with a focus on usability.",
             "hosted": "https://simz-tempconv.netlify.app",
             "gitHub": "https://github.com/SimanyeSTS/Temp.-Converter.git",
             "image": "https://simanyests.github.io/FinalPortfolioPictures/Screenshot 2024-07-01 121444.png"
