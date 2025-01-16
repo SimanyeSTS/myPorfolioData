@@ -281,7 +281,7 @@
         {
             "id": 3,
             "title": "AuraArtistry",
-            "description": "AuraArtistry is a collaborative e-commerce platform for feminine beauty products, where I led the backend development using Node.js, Express.js, and MySQL. I designed and implemented secure, scalable RESTful API endpoints with full CRUD functionality, developed efficient database schemas, and managed user authentication with password hashing for data security. Additionally, I integrated product and order management systems and contributed to the frontend by implementing dynamic product filtering and sorting features. The platform includes a secure admin panel for streamlined product and user management. This project highlights my backend expertise and collaborative approach to delivering a robust full-stack application.",
+            "description": "AuraArtistry is a collaborative e-commerce platform for feminine beauty products. I led backend development with Node.js, Express.js, and MySQL, creating secure, scalable RESTful APIs with full CRUD functionality. I designed efficient database schemas, managed user authentication, and integrated product and order management systems. I also contributed to frontend features like dynamic product filtering and sorting, while building a secure admin panel for easy management. This project showcases my backend expertise and teamwork in delivering a robust full-stack application.",
             "hosted": "https://vuejs-frontend-e2fc1.web.app/",
             "gitHub": "https://github.com/SimanyeSTS/AuraArtistry-Project.git",
             "image": "https://i.postimg.cc/SR0JCs2W/Screenshot-2024-09-18-101605.png"
