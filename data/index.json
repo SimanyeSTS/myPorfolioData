@@ -262,55 +262,55 @@
         ]
     },
     "projects": [
-        {
-            "id": 1,
-            "title": "FortuneTrack",
-            "description": "FortuneTrack was developed as my Capstone Project for LCA—a prediction market and analytics platform built with Vue.js for the frontend and Node.js for the backend. I independently chose this complex topic, setting my project apart within the cohort. My key contribution was designing and implementing data processing algorithms, visualizing data through interactive graphs, and integrating AI to generate accurate market forecasts and insights. The platform features secure user authentication with full CRUD functionality, complemented by a seamless and efficient admin panel. This project has been a defining milestone in my full-stack development journey.",
-            "hosted": "https://fortunetrack-91faa.web.app/",
-            "gitHub": "https://github.com/SimanyeSTS/FortuneTrack.git",
-            "image": "https://i.postimg.cc/mrfWVnW9/Screenshot-2025-01-13-162054.png"
-        },
-        {
-            "id": 2,
-            "title": "WeatherWise",
-            "description": "WeatherWise is an interactive weather app developed as a collaborative project, utilizing Python (Flask) for the backend and JavaScript for the frontend. While my primary responsibility was frontend development with HTML, CSS, and JavaScript, I also took the initiative to support the backend team. I refactored the Python backend to improve scalability, enhance functionality, and streamline data integration from the OpenWeather API. This hands-on experience strengthened my full-stack development skills, allowing me to contribute effectively to both the frontend and backend. (Refer to GitHub commits for details.)",
-            "hosted": "https://weather-wise-sftw-eng.vercel.app/",
-            "gitHub": "https://github.com/SimanyeSTS/weather_app.git",
-            "image": "https://i.postimg.cc/tJgKYQWK/Screenshot-2025-01-13-162210.png"
-        },
-        {
-            "id": 3,
-            "title": "AuraArtistry",
-            "description": "AuraArtistry is a collaborative e-commerce platform for feminine beauty products. I led backend development with Node.js, Express.js, and MySQL, creating secure, scalable RESTful APIs with full CRUD functionality. I designed efficient database schemas, managed user authentication, and integrated product and order management systems. I also contributed to frontend features like dynamic product filtering and sorting, while building a secure admin panel for easy management. This project showcases my backend expertise and teamwork in delivering a robust full-stack application.",
-            "hosted": "https://vuejs-frontend-e2fc1.web.app/",
-            "gitHub": "https://github.com/SimanyeSTS/AuraArtistry-Project.git",
-            "image": "https://i.postimg.cc/SR0JCs2W/Screenshot-2024-09-18-101605.png"
-        },
-        {
-            "id": 4,
-            "title": "Snake Game",
-            "description": "Snake Game is a browser-based game built with HTML, CSS, and JavaScript. I developed the game logic, including snake movement, collision detection, and score tracking. Using the HTML5 canvas, I rendered the game grid, snake, and food items, ensuring smooth animations. The game’s user controls are managed through keyboard inputs, with the snake growing in size as it eats food. This project demonstrates my skills in JavaScript programming, dynamic rendering, and interactive game development.",
-            "hosted": "https://snake-game-indol-xi.vercel.app/",
-            "gitHub": "https://github.com/SimanyeSTS/Snake-Game.git",
-            "image": "https://i.postimg.cc/gj2pwHtQ/Screenshot-2024-10-15-132223-2.png"
-        },
-        {
-            "id": 5,
-            "title": "TimeScape",
-            "description": "TimeScape is an interactive analogue clock built with HTML, CSS, and JavaScript. I implemented real-time functionality using JavaScript to ensure smooth updates of the hour, minute, and second hands. The design features dynamic animations, a gradient background, and custom hand styling. It adapts responsively to various screen sizes, showcasing my front-end development, animation, and real-time data update skills.",
-            "hosted": "https://clock-work-three.vercel.app/",
-            "gitHub": "https://github.com/SimanyeSTS/clockWork.git",
-            "image": "https://i.postimg.cc/ZK0Z4jdy/Screenshot-2024-10-15-152101.png"
-        },
-        {
-            "id": 6,
-            "title": "Temperature Converter",
-            "description": "Temperature Converter is a web app that allows users to convert temperatures between Celsius, Fahrenheit, and Kelvin. I implemented the conversion logic in JavaScript for real-time results. The interface features intuitive form elements for input and unit selection, with a responsive, user-friendly design. This project demonstrates my JavaScript proficiency and ability to build interactive, accessible web applications with a focus on usability.",
-            "hosted": "https://simz-tempconv.netlify.app",
-            "gitHub": "https://github.com/SimanyeSTS/Temp.-Converter.git",
-            "image": "https://simanyests.github.io/FinalPortfolioPictures/Screenshot 2024-07-01 121444.png"
-        }
-    ],
+    {
+        "id": 1,
+        "title": "FortuneTrack",
+        "description": "FortuneTrack is a prediction market and analytics platform built with Vue.js and Node.js. I developed data processing algorithms, interactive data visualizations, and integrated AI for market forecasts. It features secure user authentication, full CRUD operations, and a seamless admin panel. This project highlights my full-stack development skills. Hosted on Firebase.",
+        "hosted": "https://fortunetrack-91faa.web.app/",
+        "gitHub": "https://github.com/SimanyeSTS/FortuneTrack.git",
+        "image": "https://i.postimg.cc/mrfWVnW9/Screenshot-2025-01-13-162054.png"
+    },
+    {
+        "id": 2,
+        "title": "WeatherWise",
+        "description": "WeatherWise is a weather app using Python (Flask) for the backend and JavaScript for the frontend. I led frontend development and optimized backend scalability by refining API data integration. It fetches real-time weather data from the OpenWeather API. This project strengthened my full-stack skills. Check GitHub for detailed commits.",
+        "hosted": "https://weather-wise-sftw-eng.vercel.app/",
+        "gitHub": "https://github.com/SimanyeSTS/weather_app.git",
+        "image": "https://i.postimg.cc/tJgKYQWK/Screenshot-2025-01-13-162210.png"
+    },
+    {
+        "id": 3,
+        "title": "AuraArtistry",
+        "description": "AuraArtistry is an e-commerce site for beauty products. I built secure RESTful APIs with Node.js, Express.js, and MySQL, managing authentication and product systems. I also added dynamic frontend features like product filtering. The admin panel streamlines site management. This project showcases my backend expertise and teamwork.",
+        "hosted": "https://vuejs-frontend-e2fc1.web.app/",
+        "gitHub": "https://github.com/SimanyeSTS/AuraArtistry-Project.git",
+        "image": "https://i.postimg.cc/SR0JCs2W/Screenshot-2024-09-18-101605.png"
+    },
+    {
+        "id": 4,
+        "title": "Snake Game",
+        "description": "Snake Game is a browser-based game built with HTML, CSS, and JavaScript. I developed the game logic, collision detection, and score tracking. The game runs smoothly using HTML5 canvas for rendering. User controls are handled through keyboard inputs. This project highlights my JavaScript and game development skills.",
+        "hosted": "https://snake-game-indol-xi.vercel.app/",
+        "gitHub": "https://github.com/SimanyeSTS/Snake-Game.git",
+        "image": "https://i.postimg.cc/gj2pwHtQ/Screenshot-2024-10-15-132223-2.png"
+    },
+    {
+        "id": 5,
+        "title": "TimeScape",
+        "description": "TimeScape is an analogue clock built with HTML, CSS, and JavaScript. I implemented real-time updates for clock hands and added smooth animations with a gradient background. The design is fully responsive across devices. This project demonstrates my frontend skills in animation and real-time data handling.",
+        "hosted": "https://clock-work-three.vercel.app/",
+        "gitHub": "https://github.com/SimanyeSTS/clockWork.git",
+        "image": "https://i.postimg.cc/ZK0Z4jdy/Screenshot-2024-10-15-152101.png"
+    },
+    {
+        "id": 6,
+        "title": "Temperature Converter",
+        "description": "Temperature Converter is a web app for converting Celsius, Fahrenheit, and Kelvin. I developed real-time conversion logic in JavaScript with a clean, responsive UI. The app features intuitive inputs and unit selection. This project highlights my JavaScript skills and focus on user-friendly design.",
+        "hosted": "https://simz-tempconv.netlify.app",
+        "gitHub": "https://github.com/SimanyeSTS/Temp.-Converter.git",
+        "image": "https://simanyests.github.io/FinalPortfolioPictures/Screenshot 2024-07-01 121444.png"
+    }
+],
     "testimonials": [
         {
             "id": 1,
