@@ -37,21 +37,21 @@
         "Education": [
             {
                 "id": 1,
+                "title": "Cape Peninsula University of Technology",
+                "description": "I am currently pursuing a Diploma in ICT Applications Development at Cape Peninsula University of Technology (CPUT). In my first year, I cover a wide range of foundational topics including Programming, ICT Fundamentals, Multimedia Foundations, Applications Development, and Communications Networks. Additionally, I develop skills in Business Practice, Professional Communications, and Project Management. These courses provide me with a solid foundation in both technical and soft skills, equipping me to tackle real-world ICT challenges and contribute effectively to the industry.",
+                "image": "https://i.postimg.cc/kgY5bYLh/Figure-1.png"
+            },
+            {
+                "id": 2,
                 "title": "Life Choices Academy",
                 "description": "I attended Life Choices Coding Academy from April to September, completing an intensive 6-month web development course. This comprehensive program equipped me with the skills to design and implement websites, propelling me towards becoming a versatile software developer. I honed my technical skills and developed essential soft skills, empowering me to tackle complex coding challenges and drive innovative solutions.",
                 "image": "https://simanyests.github.io/FinalPortfolioPictures/2024_bold_ff9c00.png"
             },
             {
-                "id": 2,
+                "id": 3,
                 "title": "Oaklands High School",
                 "description": "I embarked on my academic journey at Oaklands High School in Lansdowne, Cape Town, where I spent five formative years (Grade 8-12). As a maths and science-focused institution, Oaklands provided the ideal environment for my curiosity in computer science to flourish. I proudly capped off my high school career in 2023, achieving a Bachelor's Pass in my Matriculation exams. This milestone marked the beginning of my pursuit of excellence in the tech industry.",
                 "image": "https://simanyests.github.io/FinalPortfolioPictures/2019_2023_bold_ff9c00.png"
-            },
-            {
-                "id": 3,
-                "title": "Belthorn Primary School",
-                "description": "I began my academic journey at Belthorn Primary School in Athlone, Cape Town, where I attended from Grade R to Grade 7 (2011–2018). As a school deeply rooted in teaching strong virtues and values, Belthorn provided a solid foundation for both my personal and academic growth. This formative experience shaped my character and prepared me for the next stage of my educational journey.",
-                "image": "https://simanyests.github.io/FinalPortfolioPictures/2011_2018_bold_ff9c00.png"
             }
         ],
         "Skills": [
